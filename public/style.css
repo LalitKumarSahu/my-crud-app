@@ -1,0 +1,43 @@
+h1{
+  color: maroon;
+  text-align: center;
+}
+h3{
+  text-align: center;
+ 
+  padding: 10px;
+ 
+}
+h4{
+  text-align: center;
+}
+.post{
+  height: 202px;
+  width: 300px;
+  background-color: blanchedalmond;
+  border: 1px solid black;
+  border-radius: 10px;
+  margin: 15px;
+ margin-left: 250px;
+
+}
+.user{
+  font-style: italic;
+}
+.post span a{
+  text-align: end;
+  padding-left: 240px;
+ 
+}
+.dltbtn{
+  text-align: center;
+  background-color: brown;
+  color: white;
+  padding: 5px 15px;
+  border-radius: 5px;
+  border: none;
+
+}
+a{
+  text-decoration: none;
+}
